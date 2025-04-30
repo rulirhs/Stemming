@@ -26,20 +26,20 @@ english_words = set([
     'adjust', 'imagine', 'communicate', 'reflect', 'coordinate', 'elaborate'
 ])
 indonesian_words = set([
-    'dan', 'atau', 'kucing', 'anjing', 'taman', 'berlari', 'melompat', 
-    'makan', 'minum', 'berbicara', 'belajar', 'menulis', 'membaca', 
-    'jalan', 'tidur', 'bangun', 'duduk', 'berdiri', 'melihat', 'mendengar', 
-    'memasak', 'bermain', 'memiliki', 'menyukai', 'membantu', 'menyelesaikan', 
-    'mengajar', 'menghitung', 'mengetahui', 'menang', 'kalah', 'berpikir', 
-    'menari', 'menyanyi', 'berpikir', 'berkenalan', 'berkunjung', 'mendaki', 
-    'berkumpul', 'menjaga', 'menyusun', 'merancang', 'menghargai', 'mengikuti', 
-    'berhenti', 'menunggu', 'memutuskan', 'berpakaian', 'merokok', 'merawat', 
-    'menggunakan', 'menghindari', 'mengungkapkan', 'berkomunikasi', 'memperkenalkan', 
-    'menawarkan', 'memperbaiki', 'mendekati', 'menghasilkan', 'menceritakan', 
-    'mencari', 'memperoleh', 'menghapus', 'memperkenalkan', 'menemukan', 
-    'memperbaiki', 'berpindah', 'menyemangati', 'membayar', 'meminjam', 
-    'memutuskan', 'mengambil', 'mengatur', 'mengorganisir', 'menghibur', 
-    'mengutamakan', 'mengatasi', 'memperhatikan', 'menerima', 'mengontrol'
+    'dan', 'atau', 'kucing', 'anjing', 'taman', 'lari', 'lompat', 
+    'makan', 'minum', 'bicara', 'ajar', 'tulis', 'baca', 
+    'jalan', 'tidur', 'bangun', 'duduk', 'diri', 'lihat', 'dengar', 
+    'masak', 'main', 'miliki', 'suka', 'bantu', 'selesai', 
+    'ajar', 'hitung', 'tahu', 'menang', 'kalah', 'pikir', 
+    'tari', 'nyanyi', 'kenal', 'kunjung', 'daki', 
+    'kumpul', 'jaga', 'susun', 'rancang', 'hargai', 'ikut', 
+    'henti', 'tunggu', 'putus', 'pakaian', 'rokok', 'rawat', 
+    'guna', 'hindar', 'ungkap', 'komunikasi', 'kenal', 
+    'tawar', 'baik', 'dekat', 'hasil', 'cerita', 
+    'cari', 'peroleh', 'hapus', 'kenal', 'temu', 
+    'baik', 'pindah', 'semangat', 'bayar', 'pinjam', 
+    'putus', 'ambil', 'atur', 'organisir', 'hibur', 
+    'utama', 'atasi', 'perhati', 'terima', 'kontrol'
 ])
 
 # Fungsi untuk mendeteksi bahasa
